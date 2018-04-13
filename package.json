@@ -1,0 +1,35 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "Ethereum ERC20 Token Airdrop App",
+  "main": "app.js",
+  "dependencies": {
+    "config": "^1.30.0",
+    "ethereumjs-tx": "^1.3.4",
+    "ethjs-account": "^0.1.4",
+    "keythereum": "^1.0.2",
+    "node-xlsx": "^0.12.0",
+    "web3": "^1.0.0-beta.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyfrank/ERC20-Airdrop.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "ERC20",
+    "Token",
+    "Airdrop",
+    "App"
+  ],
+  "author": "sunnyfrank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyfrank/ERC20-Airdrop/issues"
+  },
+  "homepage": "https://github.com/sunnyfrank/ERC20-Airdrop#readme"
+}
